@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-04-22T17:54:03Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ESP32-12S"
+        },
+        "Owner": "Naser Masri <Naser.eng.85@hotmail.com>",
+        "Size": {
+            "X": 52.05,
+            "Y": 54.28
+        }
+    }
+}
